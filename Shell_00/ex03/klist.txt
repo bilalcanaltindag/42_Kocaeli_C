@@ -1,0 +1,6 @@
+Credentials cache: API:5CCB01B4-DE06-485D-A482-D9A5F962C60D
+        Principal: baltinda@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb 10 11:14:08 2022  Feb 10 21:14:08 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Feb 10 11:14:10 2022  Feb 10 21:14:08 2022  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
